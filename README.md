@@ -11,10 +11,10 @@
 
 ## Explora Mis Proyectos
 
-- [BanditChasePage](github.com/JCasaisCar/BanditChasePage)): Sumérgete en la emoción de la página de un juego retro de conducción.
+- [BanditChasePage](https://github.com/JCasaisCar/BanditChasePage)): Sumérgete en la emoción de la página de un juego retro de conducción.
 
 ## ¡Contáctame!
 
-¡Encuentra mi perfil en [LinkedIn](www.linkedin.com/in/jesús-casais-carrillo-jcasaiscar) para conectarnos! Estoy aquí para responder preguntas, discutir oportunidades y colaborar en proyectos emocionantes.
+¡Encuentra mi perfil en [LinkedIn](https://www.linkedin.com/in/jes%C3%BAs-casais-carrillo-jcasaiscar/) para conectarnos! Estoy aquí para responder preguntas, discutir oportunidades y colaborar en proyectos emocionantes.
 
 ¡Gracias por tu interés y por explorar mi perfil! 😊
