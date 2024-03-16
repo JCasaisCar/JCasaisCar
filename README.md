@@ -1,16 +1,20 @@
-### Hi there 👋
+# ¡Bienvenidos al Mundo del Desarrollo de Software! 👋
 
-<!--
-**JCasaisCar/JCasaisCar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Acerca de Mí
 
-Here are some ideas to get you started:
+¡Saludos! En este espacio de GitHub, soy un desarrollador apasionado comprometido con la excelencia y el crecimiento continuo en el vasto universo del software.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Mis Habilidades Destacadas
+
+- **Lenguajes de Programación:** Python, JavaScript, Java, HTML, CSS, SQL...
+- **Herramientas Técnicas:** Git, Eclipse, VS Code...
+
+## Explora Mis Proyectos
+
+- [BanditChasePage](github.com/JCasaisCar/BanditChasePage)): Sumérgete en la emoción de la página de un juego retro de conducción.
+
+## ¡Contáctame!
+
+¡Encuentra mi perfil en [LinkedIn](www.linkedin.com/in/jesús-casais-carrillo-jcasaiscar) para conectarnos! Estoy aquí para responder preguntas, discutir oportunidades y colaborar en proyectos emocionantes.
+
+¡Gracias por tu interés y por explorar mi perfil! 😊
